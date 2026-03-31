@@ -30,15 +30,8 @@ Here are some of my most relevant repositories:
   An Object-Oriented console application that calculates the Italian "Codice Fiscale" based on user personal data, demonstrating string manipulation and OOP principles.
 
 - 🧪 **[RighiLab](https://github.com/g0riglia/righilab)**  
-  A collaborative project I am currently contributing to.
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sneaxino&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6" alt="Sneaxino's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sneaxino&layout=compact&theme=transparent&hide_border=true&title_color=3b82f6" alt="Top Languages" height="150" />
-</p>
+  A project I collaborated on as a co-developer. It is an application designed to generate interactive lessons and educational mini-games starting from notes, YouTube videos, or manually entered topics.
 
 ## 📫 Let's Connect
 
-- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />] https://www.linkedin.com/in/carmine-ciccarelli-bb685a3bb
+- <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /> https://www.linkedin.com/in/carmine-ciccarelli-bb685a3bb
